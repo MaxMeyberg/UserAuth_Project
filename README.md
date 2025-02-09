@@ -1,6 +1,6 @@
 # FaceAuthApp
 
-FaceAuthApp is a React Native application that uses biometric authentication (Face ID) for user verification. This project integrates with Supabase for backend services and is built using Expo.
+FaceAuthApp is a React Native application that uses biometric authentication (Face ID) for user verification. This project integrates with Supabase for backend services and is built using Expo. This is still a work in progress.
 
 ## Important Remarks:
 - These instructions have NOT been tested fully, I did this project with no prior experience code base
@@ -110,10 +110,3 @@ FaceAuthApp is a React Native application that uses biometric authentication (Fa
 - Enhance UI/UX for better user experience.
 - Implement additional security features.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
